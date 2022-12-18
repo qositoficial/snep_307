@@ -1,3 +1,3 @@
 Public repository for the instalation script of SNEP3
 <br>
-<img src="logo-snep.png" height="50" width="100" />
+<img src="logo-snep.png" height="150" width="300" />
